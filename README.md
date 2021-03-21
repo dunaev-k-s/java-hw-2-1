@@ -24,4 +24,4 @@
 * openJDK 11.0.2
 * IntelliJ IDEA 2020.3.2
 
-![Screenshot](https://github.com/dunaev-k-s/java-hw-2-1/blob/master/images/1.png)
+
